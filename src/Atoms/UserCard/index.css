@@ -1,8 +1,8 @@
 #pics{
- display: inline-block;
- margin-left: 80px;
- margin-right: 80px;
- justify-content: space-evenly;
+display: inline-block;
+margin-left: 80px;
+margin-right: 80px;
+justify-content: space-evenly;
 width: 200px;
 height: 300px;
 padding: 30px;
